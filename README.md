@@ -1,1 +1,1 @@
-# practiceGit_gondoyuta
+# GitHub練習
